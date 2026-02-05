@@ -3,13 +3,12 @@
 I'm **Kjoy Comendador**, a 2nd-year **IT student**.  
 
 🌱 I’m currently learning the basics of programming to improve my skills  
-💻 My motto: **“Tuloy lang hanggat may kaya”**  
+💻 My motto: **"Do the best you can every day."**  
 
 ---
 
 ### My Skills 🛠️
-- **Java:** 30/100  
-- **Python:** 35/100  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
 
@@ -19,4 +18,5 @@ I'm **Kjoy Comendador**, a 2nd-year **IT student**.
 ---
 
 ### Fun Fact ✨
-Even though I’m just starting, I love exploring programming and building small projects as I learn!
+I’m just starting out, but I enjoy exploring programming and learning a little every day!
+
